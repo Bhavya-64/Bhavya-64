@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI/ML research projects, LLM-based experimentation, and scalable full-stack applications with cloud-ready deployment.<br>🤝 I’m looking to collaborate on<br>Applied AI projects, IoT-based intelligent systems, and real-world problem-solving products (especially automation, smart infrastructure, and data-driven systems).<br>🆘 I’m looking for help with<br>Advanced DSA, production-level system design, and optimizing ML models for real-world deployment.<br>🌱 I’m currently learning<br>Deep learning, LLM architecture, advanced machine learning optimization, and scalable backend systems.<br>💬 Ask me about<br>AI/ML projects, IoT innovations (RFID speed monitoring systems, wearable safety devices), automation testing, and research-based model development.<br>⚡ Fun fact<br>I build tech solutions that replace physical systems with intelligent automation — from smart speed control to elderly fall prevention systems.<br><br>
+🔭 I’m currently working on<br>
+AI/ML research projects, LLM-based experimentation, and scalable full-stack applications with cloud-ready deployment.<br>
+🤝 I’m looking to collaborate on<br>Applied AI projects, IoT-based intelligent systems, and real-world problem-solving products (especially automation, smart infrastructure, and data-driven systems).<br>
+🆘 I’m looking for help with<br>Advanced DSA, production-level system design, and optimizing ML models for real-world deployment.<br>🌱 I’m currently learning<br>Deep learning, LLM architecture, advanced machine learning optimization, and scalable backend systems.
+<br>💬 Ask me about<br>AI/ML projects, IoT innovations (RFID speed monitoring systems, wearable safety devices), automation testing, and research-based model development.<br>
+⚡ Fun fact<br>I build tech solutions that replace physical systems with intelligent automation — from smart speed control to elderly fall prevention systems.<br><br>
 
 
 ## 🌐 Socials:
